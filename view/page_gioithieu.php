@@ -9,6 +9,7 @@
             <div class="mota">
                 <a href="">Giới thiệu</a><br><br>
                 <span style="box-sizing: border-box; margin: 0px 0px 25px;margin-top: 20px; line-height: 1.8; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
+                    Top Men – Nơi tôn vinh phong cách lịch lãm phái mạnh!
                     Chúng tôi chuyên kinh doanh sỉ và lẻ các mặt hàng thời trang trên Toàn Quốc
                     với giá cả và chất lượng cạnh tranh nhất.Chỉ với một cú click chuột hoặc một cuộc
                     điện thoại, bạn có thể sở hữu ngay sản phẩm của chúng tôi mà không cần đến tận nơi
@@ -17,24 +18,24 @@
                 <br>
                 <br>
                 <span  style="box-sizing: border-box; margin: 0px 0px 25px; line-height: 1.8; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
-                    Đến với Thời Trang Phái Mạnh , các bạn có thể dễ dàng lựa chọn cho mình những mặt hàng
-                    thời trang được yêu thích nhất hiện nay cho giới trẻ như : Quần Kaki –  Quần Jean , 
-                    Skinny – Áo sơ mi – Áo Thun body – Và hàng trăm phụ kiện cần thiết khác cho cuộc sống …..
-                    Shop  thuờng xuyên nhập những mẫu hàng hot nhất trên thị trường và có những hàng xách
-                    tay đặc biệt không đụng hàng.
+                Top Men là thương hiệu thời trang dành riêng cho nam giới, nơi hội tụ những thiết 
+                kế tinh tế, hiện đại và mạnh mẽ. Chúng tôi mang đến đa dạng sản phẩm như áo sơ mi, 
+                áo thun, quần tây, quần jeans và cả những phụ kiện thời trang giúp bạn hoàn thiện
+                phong cách cá nhân.
                 </span>
                 <br>
                 <br>
                 <span  style="box-sizing: border-box; margin: 0px 0px 25px; line-height: 1.8; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">
-                    Phong cách phục vụ khách hàng thân thiện, tư vấn chu đáo, sản phẩm phù hợp túi tiền và
-                    bảo hành hậu mãi cho sản phẩm tận tâm chính là tiêu chí hàng đầu mà Thời Trang Phái Mạnh
-                    luôn đặt ra nhằm đem lại sự hài lòng cho Quý khách hàng.
+                Dù bạn là người yêu thích sự lịch lãm tại công sở, năng động trên phố hay cá tính
+                trong những buổi tiệc, Top Men luôn có những lựa chọn phù hợp với phong cách của
+                bạn. Với chất lượng vượt trội và thiết kế đẳng cấp, mỗi sản phẩm của Top Men
+                không chỉ là thời trang mà còn là sự khẳng định phong cách và giá trị bản thân.
                 </span>
             </div>
         </div>
         <div class="row-2">
             <div class="anhgioithieu">
-                <a href=""><img src="assets_user/img/anhgioithieu2.webp" alt=""></a>
+                <a href=""><img src="assets_user/img/top.jfif" alt=""></a>
             </div>
         </div>
     </div>

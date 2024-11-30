@@ -15,7 +15,7 @@
                     <div class="product-content-left-small-img">
                         <img src="upload/product/<?=$ctsanpham['anh']?>" alt="#">
                         <img src="upload/product/<?=$ctsanpham['anh']?>" alt="#">
-                        <img src="assets_user/img/anhnu8.webp" alt="#">
+                        <!-- <img src="assets_user/img/anhnu8.webp" alt="#"> -->
                     </div>  
                 </div>
                 <div class="product-content-right">
@@ -60,7 +60,7 @@
                             <?=$_SESSION['loi']?>
                         </div>
                     <?php endif; unset($_SESSION['loi']); ?>
-                    <div class="product-content-right-product-icon">
+                    <!-- <div class="product-content-right-product-icon">
                         <div class="product-content-right-product-icon-item">
                             <i class="fas fa-phone-alt"></i> <p>Hotline</p>
                         </div> 
@@ -70,7 +70,7 @@
                         <div class="product-content-right-product-icon-item">
                             <i class="fas fa-envelope"></i> <p>Mail</p>
                         </div>                  
-                    </div>
+                    </div> -->
                     <div class="product-content-right-product-rgin-botton">
                         <p style="font-weight: bold; margin-bottom: 10px; margin-top: 24px">Mô tả sản phẩm:</p>
                         <span style="font-family: Helvetica Neue,Helvetica,Arial,sans-serif;color: #504f4f; font-size: 15px; line-height: 18px;">

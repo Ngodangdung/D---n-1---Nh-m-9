@@ -1,10 +1,10 @@
 <?php
 include_once 'model/connect.php';
-if($titl){
+// if($titl){
 
-}else{
+// }else{
     
-}
+// }
 include_once 'view/template_head.php';
 include_once 'view/template_header.php';
 
